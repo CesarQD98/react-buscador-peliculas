@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Walesca",
+        "last": "Teixeira"
+      },
+      "location": {
+        "street": {
+          "number": 4788,
+          "name": "Rua Sete de Setembro "
+        },
+        "city": "Petrolina",
+        "state": "Alagoas",
+        "country": "Brazil",
+        "postcode": 42999,
+        "coordinates": {
+          "latitude": "-81.0418",
+          "longitude": "84.0566"
+        },
+        "timezone": {
+          "offset": "-1:00",
+          "description": "Azores, Cape Verde Islands"
+        }
+      },
+      "email": "walesca.teixeira@example.com",
+      "login": {
+        "uuid": "ff267ba0-5bf6-4c17-9121-ecf61ab63633",
+        "username": "beautifultiger777",
+        "password": "bestbuy",
+        "salt": "U7AXfCge",
+        "md5": "c391389ae0887cd1b437ca811c9e8bfb",
+        "sha1": "453e33a08d790d6813188561979523a0252f8860",
+        "sha256": "7300bd2fdf7173ee955c500ed66115a4e86eaf624bc66c2f97a5fb21c5c7518a"
+      },
+      "dob": {
+        "date": "1999-02-22T10:18:02.693Z",
+        "age": 24
+      },
+      "registered": {
+        "date": "2009-11-07T07:16:06.516Z",
+        "age": 13
+      },
+      "phone": "(67) 3232-2934",
+      "cell": "(03) 8470-8526",
+      "id": {
+        "name": "CPF",
+        "value": "908.354.841-53"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/10.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+      },
+      "nat": "BR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "ماهان",
+        "last": "سهيلي راد"
+      },
+      "location": {
+        "street": {
+          "number": 5815,
+          "name": "شهید دکتر آیت"
+        },
+        "city": "رشت",
+        "state": "مازندران",
+        "country": "Iran",
+        "postcode": 19905,
+        "coordinates": {
+          "latitude": "86.5966",
+          "longitude": "-57.9068"
+        },
+        "timezone": {
+          "offset": "+4:30",
+          "description": "Kabul"
+        }
+      },
+      "email": "mhn.shylyrd@example.com",
+      "login": {
+        "uuid": "705d6b0e-939f-40d5-87d6-28697b5a9669",
+        "username": "goldenladybug522",
+        "password": "atlanta",
+        "salt": "prqHVn7D",
+        "md5": "78ced7905b6b9ece1973d3909203307c",
+        "sha1": "aeb2acda176cd0bdd736be3e22f7ca5776706e34",
+        "sha256": "001978f50656291dbe9b678e9758475f176be8e7bfb642056ea9571da5405f42"
+      },
+      "dob": {
+        "date": "1981-07-04T18:00:29.259Z",
+        "age": 42
+      },
+      "registered": {
+        "date": "2010-12-08T21:18:24.111Z",
+        "age": 12
+      },
+      "phone": "054-54467587",
+      "cell": "0928-334-5459",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/21.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+      },
+      "nat": "IR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Danny",
+        "last": "Meyer"
+      },
+      "location": {
+        "street": {
+          "number": 8458,
+          "name": "Adams St"
+        },
+        "city": "Waterbury",
+        "state": "South Carolina",
+        "country": "United States",
+        "postcode": 85545,
+        "coordinates": {
+          "latitude": "-70.1900",
+          "longitude": "-92.7798"
+        },
+        "timezone": {
+          "offset": "+6:00",
+          "description": "Almaty, Dhaka, Colombo"
+        }
+      },
+      "email": "danny.meyer@example.com",
+      "login": {
+        "uuid": "448c3e71-577a-4638-b967-ac8eb3e65786",
+        "username": "lazytiger684",
+        "password": "paula",
+        "salt": "HwTsQbdI",
+        "md5": "4ae89e454ac285c3a7ed1e03d9d37d38",
+        "sha1": "f8d540a48d2a4199677376a0b0f674cd21b6a871",
+        "sha256": "299d60186d94b8d52d5190a598091242617ae749356eead02468b13d5df7c9d1"
+      },
+      "dob": {
+        "date": "1961-07-10T21:21:27.852Z",
+        "age": 61
+      },
+      "registered": {
+        "date": "2018-01-02T09:03:32.482Z",
+        "age": 5
+      },
+      "phone": "(740) 836-5386",
+      "cell": "(479) 391-8794",
+      "id": {
+        "name": "SSN",
+        "value": "189-88-1715"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/67.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Léo",
+        "last": "Chevalier"
+      },
+      "location": {
+        "street": {
+          "number": 5042,
+          "name": "Rue de Gerland"
+        },
+        "city": "Besançon",
+        "state": "Mayotte",
+        "country": "France",
+        "postcode": 45835,
+        "coordinates": {
+          "latitude": "2.2517",
+          "longitude": "161.8706"
+        },
+        "timezone": {
+          "offset": "-3:30",
+          "description": "Newfoundland"
+        }
+      },
+      "email": "leo.chevalier@example.com",
+      "login": {
+        "uuid": "f339cd0f-cd85-4b4a-808a-7ea4caa70d5a",
+        "username": "happywolf895",
+        "password": "5678",
+        "salt": "04aw10Pe",
+        "md5": "5af80692b6d48b2002093defc25afb40",
+        "sha1": "57f8239b7713a506fb98e51cf4ec9369c1da8f1f",
+        "sha256": "30823e2358184f5c914d7d1996206fe55ac7628280c35d35866f2741d0824df3"
+      },
+      "dob": {
+        "date": "1972-05-16T05:12:50.504Z",
+        "age": 51
+      },
+      "registered": {
+        "date": "2021-08-10T11:10:34.201Z",
+        "age": 1
+      },
+      "phone": "04-99-88-30-09",
+      "cell": "06-63-02-68-24",
+      "id": {
+        "name": "INSEE",
+        "value": "1720419211352 58"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/80.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Fátima",
+        "last": "Arias"
+      },
+      "location": {
+        "street": {
+          "number": 7217,
+          "name": "Calle Mota"
+        },
+        "city": "Granada",
+        "state": "Comunidad Valenciana",
+        "country": "Spain",
+        "postcode": 13208,
+        "coordinates": {
+          "latitude": "17.6350",
+          "longitude": "-64.2140"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "fatima.arias@example.com",
+      "login": {
+        "uuid": "da5cf3e2-dcf7-41de-9c2b-2864924872a6",
+        "username": "goldenrabbit460",
+        "password": "bentley",
+        "salt": "N4z5hUug",
+        "md5": "0cd9e890760eedc86ad7248df76beba7",
+        "sha1": "15b4256226329a9e714ff28cab71f7a11586fe07",
+        "sha256": "a463a753f7c008d606551162390c2942a45e9dc84bec7085d9fc9794b7a04f5c"
+      },
+      "dob": {
+        "date": "1961-05-13T04:49:05.550Z",
+        "age": 62
+      },
+      "registered": {
+        "date": "2020-09-24T03:33:24.125Z",
+        "age": 2
+      },
+      "phone": "982-422-702",
+      "cell": "621-607-912",
+      "id": {
+        "name": "DNI",
+        "value": "16233532-T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/2.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+      },
+      "nat": "ES"
+    }
+  ],
+  "info": {
+    "seed": "30201d06107a85e1",
+    "results": 5,
+    "page": 1,
+    "version": "1.4"
+  }
+}
